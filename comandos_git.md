@@ -10,6 +10,8 @@ $ git branch <stormtrooper_name> | crea un nuevo branch
 
 $ git checkout <stormtrooper_name> | cambia a otro branch
 
+$ git remote add origin https://github.com/empire/stargit.git | add repo
+
 ### Jerarquía
 
 * Primer equipo: 
