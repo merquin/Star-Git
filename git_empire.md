@@ -12,6 +12,10 @@ $ git checkout <stormtrooper_name> | cambia a otro branch
 
 $ git remote add origin https://github.com/empire/stargit.git | add repo
 
+$ git fetch origin <branch> | traer cambios
+
+$ git merge origin/<branch> | fusionar cambios
+
 ### Jerarquía
 
 * Primer equipo: 
